@@ -1,0 +1,4 @@
+# ???????=??????????  ctrl+alt+??
+org.springframework.context.ApplicationContextInitializer=com.jack.initializer.MyApplicationContextInitializer
+
+org.springframework.context.ApplicationListener=com.jack.listener.MyListener
